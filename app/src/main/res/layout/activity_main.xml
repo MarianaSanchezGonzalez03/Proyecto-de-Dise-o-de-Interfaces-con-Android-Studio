@@ -11,11 +11,17 @@
     android:gravity="center"
     android:background="@color/red"
     android:orientation="vertical">
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
 
         android:text="Hola Platzi, curso de interfaces" >
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:text="Hola Platzi, curso de interfaces" >
 
 
     <EditText
