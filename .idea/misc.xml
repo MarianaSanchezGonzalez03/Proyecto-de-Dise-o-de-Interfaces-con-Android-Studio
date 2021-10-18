@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/52813/Downloads/CourseMaterialdisaing/PlatziMusic/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/52813/Downloads/CourseMaterialdisaing/PlatziMusic/app/src/main/res/layout/activity_profile.xml" value="0.18" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.1125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/drawable/vector_lock.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/drawable/vector_person.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/layout/include_logo.xml" value="0.16" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/layout/merge_logo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PlatziMusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
       </map>
     </option>
   </component>
